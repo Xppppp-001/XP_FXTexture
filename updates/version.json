@@ -1,0 +1,9 @@
+{
+  "version": "v1.1.2",
+  "title": "V1.1.2",
+  "asset_name": "_V1.1.2_.zip",
+  "download_url": "https://github.com/Xppppp-001/XP_FXTexture/releases/download/v1.1.2/_V1.1.2_.zip",
+  "release_url": "https://github.com/Xppppp-001/XP_FXTexture/releases/tag/v1.1.2",
+  "changelog": "Optimized remove-black algorithm to preserve original colors while removing black background.\nImproved transparent checkerboard preview for clearer inspection.\nKept the current UI polish and existing feature behavior unchanged.",
+  "force_update": false
+}
