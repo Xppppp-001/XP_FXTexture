@@ -1,9 +1,9 @@
 {
-  "version": "v1.1.2",
-  "title": "V1.1.2",
-  "asset_name": "_V1.1.2_.zip",
-  "download_url": "https://github.com/Xppppp-001/XP_FXTexture/releases/download/v1.1.2/_V1.1.2_.zip",
-  "release_url": "https://github.com/Xppppp-001/XP_FXTexture/releases/tag/v1.1.2",
-  "changelog": "Optimized remove-black algorithm to preserve original colors while removing black background.\nImproved transparent checkerboard preview for clearer inspection.\nKept the current UI polish and existing feature behavior unchanged.",
+  "version": "v1.1.3",
+  "title": "V1.1.3",
+  "asset_name": "FXTextureDesigner_V1.1.3_Portable.zip",
+  "download_url": "https://raw.githubusercontent.com/Xppppp-001/XP_FXTexture/main/releases/FXTextureDesigner_V1.1.3_Portable.zip",
+  "release_url": "https://github.com/Xppppp-001/XP_FXTexture/tree/main/releases",
+  "changelog": "Added automatic update checking on startup.\nAdded a low-emphasis manual Check Update button.\nUpdate metadata now uses a stable version.json file instead of the GitHub API.",
   "force_update": false
 }
