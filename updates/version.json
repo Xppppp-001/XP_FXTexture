@@ -4,6 +4,6 @@
   "asset_name": "FXTextureDesigner_V1.1.3_Portable.zip",
   "download_url": "https://raw.githubusercontent.com/Xppppp-001/XP_FXTexture/main/releases/FXTextureDesigner_V1.1.3_Portable.zip",
   "release_url": "https://github.com/Xppppp-001/XP_FXTexture/tree/main/releases",
-  "changelog": "Added automatic update checking on startup.\nAdded a low-emphasis manual Check Update button.\nUpdate metadata now uses a stable version.json file instead of the GitHub API.",
+  "changelog": "Added automatic update checking on startup.\nAdded download progress for update packages.\nAfter download, the app can close, apply the portable update, and restart automatically.\nUpdate metadata now uses a stable version.json file instead of the GitHub API.",
   "force_update": false
 }
